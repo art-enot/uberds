@@ -26,3 +26,15 @@
 .orderOptions .textBlock {
   margin: 30px 20px;
 }
+
+.orderOptions .greenButton {
+  background-color: green !important;
+  color: white !important;
+}
+
+.orderOptions .fileContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}

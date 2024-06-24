@@ -1,0 +1,23 @@
+/* src/Header.css */
+.Footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: var(--color-bg-stripe);
+  }
+  
+  .Header-Logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .Header-Menu {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .Header-MenuItem {
+    text-decoration: none;
+  }
+  

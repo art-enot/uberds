@@ -1,0 +1,8 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: contrib/admin/templates/admin/edit_inline/stacked.html:33
+#: contrib/admin/templates/admin/edit_inline/tabular.html:65
+msgid "Add another %(verbose_name)s"
+msgstr "Добавить %(verbose_name)s"

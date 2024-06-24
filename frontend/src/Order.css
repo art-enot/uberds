@@ -1,0 +1,28 @@
+.orderOptions ol, .orderOptions ul {
+  margin: 0 0 8px 0;
+  font-size: 0.7em;
+}
+
+.orderOptions p {
+  font-size: 0.7em;
+}
+
+.orderOptions .table .TableCell{
+  font-size: 0.6em;
+}
+
+.orderOptions .table {
+  margin: 25px 0 25px 0;
+}
+
+.orderOptions .cardTable {
+  margin: 20px 0;
+}
+
+.orderOptions .orderTextTitle {
+  margin: 30px 0 20px 0;
+}
+
+.orderOptions .textBlock {
+  margin: 30px 20px;
+}
